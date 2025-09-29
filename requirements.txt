@@ -9,4 +9,4 @@ scikit-learn
 openpyxl
 xlsxwriter
 bcrypt
-ortools
+ortools==9.14.6206
